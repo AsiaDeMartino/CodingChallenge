@@ -1,0 +1,64 @@
+body{
+  background-image: url(immagini/background.jpg);
+  background-size: cover;
+  background-repeat: norepeat;
+  font-family: 'Poppins', sans-serif;
+}
+.quadrato{
+  width: 1000px;
+  height:730px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 15px;
+}
+header img{
+  width: 200px;
+  margin-top: 80px;
+}
+.titolo{
+  color: lime;
+  font-size: 30px;
+}
+.intestazione{
+  text-align: center;
+}
+.barraricerca{
+  margin: auto;
+  width: 850px;
+  height: 35px;
+  background-color: lime;
+}
+.bottoni{
+  text-align: center;
+  padding-top: 6px;
+}
+.monopattino{
+  display: inline-block;
+  color: white;
+  font-size: 25px;
+  padding-top: 20px;
+}
+.via{
+  color: white;
+  font-size: 15px;
+  line-height:  normal;
+}
+.carica-orange{
+  height: 30px;
+  width: 300px;
+  background-color: #F5B453;
+  border-radius: 5px;
+}
+.carica-green{
+  height: 30px;
+  width: 500px;
+  background-color: #1EC31E;
+  border-radius: 5px;
+}
+.carica-red{
+  height: 30px;
+  width: 130px;
+  background-color: #BE4141;
+  border-radius: 5px;
+}
